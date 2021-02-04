@@ -1,0 +1,196 @@
+/* PAGE #4 BODY CSS */
+
+
+
+
+.main_container{
+    padding: 40px 0px;
+    background-color: rgba(243,243,249,255);
+}
+.content_container{
+    max-width: 1170px;
+    margin: auto;
+}
+.main_section1_div{
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgba(24,28,71,255);
+    letter-spacing: 1px;
+}
+.main_section1_h1{
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgba(24,28,71,255); 
+    letter-spacing: 1px;
+}
+.main_section1_p{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family:inherit;
+    font-weight:600;
+    color: rgba(24,28,71,255);
+}
+.main_section1{
+    text-align: center;
+}
+
+.list_item{
+    padding: 8px;
+    margin: auto;
+}
+.main_ul{
+    color: rgba(50,87,158,255);
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 30px 0px;
+    display: flex;
+    list-style: none;
+    font-weight:600;
+    letter-spacing: 1px;
+    
+}
+.imga{
+    margin: auto;
+    display: block;
+    width: 100px;
+    height: 20px;
+    background-image: url(https://animoto.com/static/wavy-7ff02f13569c9c84a7174f4fd2050300.svg);
+    background-repeat: no-repeat;
+    background-size: 121px 9px;
+}
+.grid_colam{
+    margin-left: 15px;
+    display: grid;
+    grid-template-columns: 370px 370px 370px;
+    grid-column-gap: 20px;
+    padding: 0 0 5%;
+  
+}
+.button_in_main{
+    cursor:pointer;
+    height: 64%;
+    border: none;
+    
+}
+.button_in_main img{
+    filter: drop-shadow(13px 13px 3px rgba(222,222,228,255));
+}
+.btn2_main{
+    cursor:pointer;
+    color: white;
+    width: 285px;
+    height: 45px;
+    border-radius: 40px;
+    margin-left: 8px;
+    letter-spacing: 1px;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 700;
+    background-color: rgba(35,64,140,255);
+  
+}
+.div_grid_colam{
+    width: 285px;
+}
+   .div1_grid_colam{
+    color: rgba(24,28,71,255);
+    font-family: sans-serif;
+    font-weight: 600;
+    text-align: left;
+    margin: 30px 10px;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+.last_div_grid_colam{
+    letter-spacing: 1px;
+    font-family: ProximaNova-Bold,helvetica neue,helvetica,arial,sans-serif;
+    font-weight: 700;
+    border-bottom: 2px solid #23408c;
+    /* padding-bottom: 4px; */
+    color: #23408c;
+}
+.play_btn{
+        position: absolute;
+        top: 48px;
+        left: 48px;
+        width: 64px;
+        height: 64px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        margin-top: -32px;
+        margin-left: -32px;
+        background-color: rgba(0,0,0,.4);
+        background-image: url(/static/play-pause-cd04475….svg);
+        background-position: -2px -1px;
+        background-size: 256px 128px;
+        text-indent: 100%;
+        cursor: pointer;
+        overflow: hidden;
+}
+
+
+
+
+/* PAGE #8 BODY CSS */
+
+
+
+
+
+.resources_cont{
+    display: flex;
+    flex-direction: column;
+}
+.resources_cont_div1{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+.resources_cont_h1{
+    font-size: 45px;
+    color: rgb(24, 28, 71);
+    margin-top: 25px;
+}
+.resources_cont_div2{
+    max-width: 1100px;
+    margin: auto;
+}
+.resources_cont_span{
+    margin: auto;
+    width: 100px;
+    height: 50px;
+    background-image: url(https://animoto.com/static/wavy-7ff02f13569c9c84a7174f4fd2050300.svg);
+    background-repeat: no-repeat;
+    background-size: 115px 8px;
+}
+.resources_cont_div2_div1_div1{
+    display: grid;
+    gap: 25px;
+    grid-template-columns: 350px 350px 350px;
+}
+.resources_cont_div2_div1_div1_div1_img{
+    filter: drop-shadow(13px 13px 6px rgba(222,222,228,255));
+}
+.resources_cont_div2_div1_div1_div1_h2{
+    font-size: 25px;
+    /* text-align: left; */
+    color: #181c47;
+    font-weight: 700;
+    line-height: 30px;
+}
+.resources_cont_div2_div1_div1_div1_p{
+    line-height: 30px;
+    font-size: 21px;
+    color: #181c47;
+    font-family: sans-serif;
+}
+.resources_cont_div2_div1_div1_div1_a{
+    letter-spacing: 1px;
+    font-family: ProximaNova-Bold,helvetica neue,helvetica,arial,sans-serif;
+    font-weight: 700;
+    border-bottom: 2px solid #23408c;
+    /* padding-bottom: 4px; */
+    color: #23408c;
+}
+
+
