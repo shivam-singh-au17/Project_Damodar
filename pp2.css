@@ -1,0 +1,47 @@
+
+        .inline1 {
+            text-decoration: underline;
+            font-family: ProximaNova,helvetica neue,helvetica,arial,sans-serif;
+            color: #2d51de;
+            transition: all .3s ease;
+        }
+        #form_55 {
+            display: grid;
+            grid-template: "a d"
+            "b d"
+            "c d";
+            margin-left: 260px;
+            margin-top: 100px;
+        }
+
+        #form_56 img {
+            width: 140px;
+            height: 100px;
+            margin-top: -30px;
+          
+        
+        }
+
+        #form_57 img {
+            width: 660px;
+            height: 490px;
+            margin-right: 200px;
+        
+        }
+        #form_58 {
+            width: 600px;
+            margin-top: -300px;
+            font-size: 22px;
+            line-height: 40px;
+        }
+        #form_56 {
+            font-size: 20px;
+            margin-top: -10px;
+         
+        }
+
+
+
+        
+
+    
