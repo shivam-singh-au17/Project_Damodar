@@ -5,7 +5,7 @@
             color: #2d51de;
             transition: all .3s ease;
         }
-        #form_1 {
+        #form_55 {
             display: grid;
             grid-template: "a d"
             "b d"
@@ -14,7 +14,7 @@
             margin-top: 100px;
         }
 
-        #form_2 img {
+        #form_56 img {
             width: 140px;
             height: 100px;
             margin-top: -30px;
@@ -22,22 +22,26 @@
         
         }
 
-        #form_4 img {
+        #form_57 img {
             width: 660px;
             height: 490px;
             margin-right: 200px;
         
         }
-        #form_3 {
+        #form_58 {
             width: 600px;
             margin-top: -300px;
             font-size: 22px;
             line-height: 40px;
         }
-        #form_2 {
+        #form_56 {
             font-size: 20px;
             margin-top: -10px;
          
         }
+
+
+
+        
 
     
