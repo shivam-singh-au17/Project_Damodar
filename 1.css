@@ -111,10 +111,11 @@
         font-size: 24px;
     }
     #right>div{
-        width: 650px;
-        height: 400px;
-        background: red;
+        width: 525px;
+        height: 332px;
+        background: rgba(255,111,94,255);
     }
+    
     @media (max-width: 600px){
         #flex{
             flex-wrap: wrap;

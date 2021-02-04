@@ -11,12 +11,12 @@
       text-align: center;
   }
 
-  .waivy_pic > img {
+  /* .waivy_pic > img {
     height: 30px;
     width: 100px;
-    margin: 0px;
-   
-}
+    margin: 0px; 
+} */
+
  #mid_text {
     display: flex;
     gap: 0px;
