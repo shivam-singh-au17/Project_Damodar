@@ -1,0 +1,49 @@
+#layout_pic {
+    display: grid;
+    gap: 30px;
+    grid-template: "id1 id2";
+   
+}
+@media (max-width: 600px){
+    #layout_pic{
+        
+        grid-template: "id1"
+                        "id2";
+    }
+}
+#bigpic {
+    grid-area: id1;
+    
+   
+    
+}
+#bigpic>img {
+   margin-left: 60px;
+   margin-top: 80px;
+    height: 550px;
+    padding: 30px;
+    border-radius: 2px;
+}
+#bigpic_text {
+    grid-area: id2;
+}
+#bigpic_text >h1 {
+   font-size: 45px;
+   color: rgb(10, 12, 114);
+   font-family: 'PT Serif', serif;
+
+   margin-top: 250px;
+}
+#bigpic_text >p {
+    font-size: 23px;
+    color: rgb(43, 35, 35);
+}
+#bigpic_text >button {
+    height: 50px;
+    width: 280px;
+    border-radius: 25px;
+    background-color: white;
+    color: rgb(10, 10, 43);
+   
+    font-size: 16px;
+}
