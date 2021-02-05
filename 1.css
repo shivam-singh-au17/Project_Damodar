@@ -2,11 +2,7 @@
         padding: 0;
         margin: 0;
     }
-    .navbar_div1{
-        display: flex;
-        justify-content: center;
-        background: rgb(58, 48, 116);
-    }
+    
     .navbar_div1>div:nth-child(1){
         width: 40%;
         height: 5vh;
@@ -98,9 +94,8 @@
          height: 2vw;
     }
     #navbar h1{
-        font-size: 70px;
+        font-size: 57px;
         color: navy;
-        line-height: 1px;
     }
     #navbar button{
         background: navy;
@@ -116,7 +111,7 @@
         background: rgba(255,111,94,255);
     }
     
-    @media (max-width: 600px){
+    /* @media (max-width: 600px){
         #flex{
             flex-wrap: wrap;
         }
@@ -134,4 +129,4 @@
             "left6"
             "right";
         }
-    }
+    } */

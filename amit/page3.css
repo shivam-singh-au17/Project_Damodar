@@ -16,26 +16,27 @@
 }
 #free_text {
    grid-area: free_text;
-   margin-left: 180px;
+   margin-left: 130px;
 }
 #free_text >h1 {
+  color: #181c47;
+  font-family: sans-serif;
   font-size: 45px;
-  color: rgb(10, 12, 114);
-  font-family: 'PT Serif', serif;
-
-  margin-top: 250px;
+  margin-top: 100px;
  
 }
 #free_text >p {
-   font-size: 23px;
+   color: #181c47;
+   font-family: sans-serif;
+   font-size: 31px;
    color: rgb(43, 35, 35);
 }
 #free_text >button {
+   font-weight: 700;
    height: 50px;
    width: 280px;
    border-radius: 25px;
    background-color: white;
    color: rgb(10, 10, 43);
-  
    font-size: 16px;
 }

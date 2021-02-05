@@ -1,49 +1,40 @@
 #layout_pic {
+    margin-left: 20px;
     display: grid;
-    gap: 30px;
-    grid-template: "id1 id2";
-   
+    gap: 57px;
+    grid-template-rows: 750px;
+    grid-template-columns: 750px 500px;
 }
-@media (max-width: 600px){
-    #layout_pic{
-        
-        grid-template: "id1"
-                        "id2";
-    }
-}
+
 #bigpic {
-    grid-area: id1;
-    
-   
-    
+    width: 700px;
 }
 #bigpic>img {
-   margin-left: 60px;
+    width: 750px;
    margin-top: 80px;
     height: 550px;
-    padding: 30px;
-    border-radius: 2px;
 }
 #bigpic_text {
-    grid-area: id2;
+    width: 450px;
 }
 #bigpic_text >h1 {
+    color: #181c47;
+    font-family: sans-serif;
    font-size: 45px;
-   color: rgb(10, 12, 114);
-   font-family: 'PT Serif', serif;
-
-   margin-top: 250px;
+   margin-top: 150px;
 }
 #bigpic_text >p {
-    font-size: 23px;
-    color: rgb(43, 35, 35);
+    color: #181c47;
+    font-family: sans-serif;
+    font-size: 31px;
+    font-weight: 500;
 }
 #bigpic_text >button {
+    font-weight: 700;
     height: 50px;
     width: 280px;
     border-radius: 25px;
     background-color: white;
     color: rgb(10, 10, 43);
-   
     font-size: 16px;
 }

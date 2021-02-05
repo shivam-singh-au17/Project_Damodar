@@ -3,7 +3,7 @@
     background-color:lightgrey;
     margin: 0;
   }
-    ul {
+   .navbar ul {
       list-style: none;
       display: flex;
       justify-content: flex-end;
@@ -13,7 +13,7 @@
       padding: 0;
     }
   
-    ul li {
+   .navbar > ul li {
       padding-right: 2em;
       font-weight: bold;
       color:rgb(129, 120, 120)
@@ -23,7 +23,7 @@
       height:7.5em;
       width: 10.5em;
     }
-    li:first-child {
+    .navbar > li:first-child {
       margin-right: auto;
       margin-left: 2em;
     }
@@ -307,3 +307,156 @@
               color: white;
               
           }
+
+
+/* FOOTER MADE BY SHIVAM SINGH */
+
+
+
+footer {
+    background: black;
+    color: rgb(99, 99, 99);
+    padding: 25px 0px;
+}
+
+.center_logo {
+    text-align: center;
+}
+
+.center_logoA {
+    display: inline-block;
+    width: 38px;
+    height: 32px;
+    background: url(https://animoto.com/static/Logo-b634e191767bb07f78b4534cf5171c33.svg) no-repeat;
+}
+
+.footer_main1 {
+    margin-top: 80px;
+    height: 45px;
+    width: 100%;
+    background-color: #f3f3f9;
+}
+
+.footer_main_btn {
+    width: 100%;
+    padding: .81481rem 0;
+    border: none;
+    margin: 0;
+    background: transparent;
+    text-align: center;
+    cursor: pointer;
+}
+
+.footer_main_btn_div {
+    color: #181c47;
+    font-family: ProximaNova-Bold, sans-serif;
+    font-weight: 700;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
+
+.footer_main2 {
+    width: 100%;
+    background-color: #dadada;
+}
+.footer_main2_div_ul5_ul{
+    display: flex; 
+    padding: 0;
+}
+
+.footer_main2_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2.37037rem 1.48148rem;
+    line-height: 24px;
+}
+
+.footer_main2_div_ul1 {
+    padding-bottom: 10px;
+    list-style: none;
+    margin-bottom: .59259rem;
+}
+
+.footer_main2_div_ul1_div1 {
+    margin-bottom: 8px;
+    color: #181c47;
+    font-family: ProximaNova-Bold, sans-serif;
+    font-weight: 700;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
+
+.footer_main2_div_ul1_div1l1 {
+    /* color: #969696; */
+    margin-bottom: 8px;
+    font-size: 15px;
+}
+
+.facebookmarketin {
+    background-image: url(https://animoto.com/static/FacebookPartnerIcon-961906786656ef476b0062fa5d9a23e0.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    display: inline-block;
+    min-height: inherit;
+    width: 120px !important;
+    height: 34px;
+    background-size: 120px 65px;
+}
+
+.instgram_icon {
+    background-image: url(https://animoto.com/static/InstagramPartnerIcon-a25842f56300416b98d0c2b1ce1485d6.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    display: inline-block;
+    min-height: inherit;
+    width: 138px !important;
+    height: 26px;
+    background-size: 138px 111px;
+}
+
+
+.youtub_icon {
+    display: inline-block;
+    min-height: inherit;
+    width: 72px !important;
+    height: 34px;
+    background-size: 100px 45px;
+    background-image: url(https://animoto.com/static/YoutubePartnerIcon-a2c50cfcbdfaa231cb43a768f4ad2c81.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.all_icon {
+    height: 32px;
+    width: 32px;
+}
+
+.fb_icon {
+    fill: #3b5998;
+}
+
+.you_tub_icon {
+    fill: red;
+}
+
+.twet_icon {
+    fill: #0077b5;
+}
+
+.insta_icon {
+    fill: #e34060;
+}
+
+.linkd_icon {
+    fill: #00aced;
+}
+
+.all_icon2 {
+    padding: 2px;
+    display: inline-block;
+    line-height: 0;
+}
+
+
+
