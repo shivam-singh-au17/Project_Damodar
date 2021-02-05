@@ -71,6 +71,110 @@
     clear: both;
 }
 
+/* <THIRD NIL> */
+
+.link_8th_page1 {
+    height: 500px;
+    padding: 20px;
+}
+
+
+#nio {
+    
+    margin-top: -520px;
+    text-align: center;
+    margin-left: 160PX;
+}
+
+#span_link2 {
+
+    width: 120px;
+    height: 10px;
+    margin-left: 20px;
+
+     
+}
+
+.body_div_formm_2 {
+    font-size: 40px;
+}
+
+
+#aveer {
+    text-align: center;
+    display: grid;
+    grid-template: "b a c";
+    margin-top: 50px;
+}
+
+#aveer1 {
+    grid-area: a;
+    margin-left:170PX;
+   
+}
+
+#aveer2 {
+    grid-area: b;
+}
+#aveer3 {
+    grid-area: c;
+    text-align: left;
+}
+
+.nio0_span_1 {
+font-family: ProximaNova-Bold,helvetica neue,helvetica,arial,sans-serif;
+text-transform: uppercase;
+font-weight: 700;
+text-align: center;
+white-space: nowrap;
+font-size: 14px;
+
+color: #23408c;
+box-sizing: border-box;
+width: 100%;
+
+}
+
+.nio0_anchor_1 {
+    align-items: center;
+letter-spacing: 1px;
+font-family: ProximaNova-Bold,helvetica neue,helvetica,arial,sans-serif;
+text-transform: uppercase;
+font-weight: 700;
+text-align: center;
+white-space: nowrap;
+font-size: 14px;
+
+color: #23408c;
+transition: none!important;
+border-bottom: 2px solid #23408c;
+
+
+}
+.aveer1_div_font{
+    font-weight: bold;
+    font-size: 20px;
+}
+.aveer1_p_font {
+     
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    font-family: ProximaNova,helvetica neue,helvetica,arial,sans-serif;
+    font-size: 20px;
+    color:  #181c47;
+}
+#aveer222 {
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+
+
+
+
+
+
 /* <fifth   nil> */
 
 .body_div_formm_kok {
@@ -103,6 +207,7 @@
     font-family: ProximaNova-Bold,sans-serif;
     letter-spacing: .1em;
     -webkit-font-smoothing: antialiased;
+    margin-top: 110px;
 
 
 
@@ -240,6 +345,90 @@
     
     text-align: center;
 }
+
+.clear{
+    clear: both;
+}
+
+
+/* <sixth nil p> */
+
+
+#craft_form_0 {
+    display: grid;
+    grid-template: "a b c"
+    "d e f";
+    margin-top: 80px;
+    text-align: center;
+    width: 1400px;
+    margin-left: 50px;
+}
+
+
+
+#craft_form_1 {
+    grid-area: a;
+}
+#craft_form_2 {
+    grid-area: b;
+}
+
+#craft_form_3 {
+    grid-area: c;
+}
+
+#craft_form_00 {
+    display: grid;
+    grid-template: "d e f";
+    text-align: center;
+    margin-top: 60px;
+    width: 1400px;
+    margin-left: 50px;
+}
+
+#craft_form_4 {
+    grid-area: d;
+}
+#craft_form_5 {
+    grid-area: e;
+}
+#craft_form_6 {
+    grid-area: f;
+    margin-top: -1px;
+}
+
+.headeranv_div_font {
+    font-weight: bold;
+    font-size: 20px;
+}
+.headeranv_p_font {
+
+   -webkit-font-smoothing: antialiased;
+   font-family: ProximaNova,helvetica neue,helvetica,arial,sans-serif;
+   font-size: 20px;
+   text-align: left;
+   margin-left: 80px;
+
+    
+}
+
+.nio99_headeranv_1 {
+
+    letter-spacing: 1px;
+    font-family: ProximaNova-Bold,helvetica neue,helvetica,arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+
+    white-space: nowrap;
+    font-size: 14px;
+
+    color: #23408c;
+
+    margin-right: 200px;
+
+
+}
+
 
 
 
