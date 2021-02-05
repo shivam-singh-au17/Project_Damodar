@@ -1,0 +1,41 @@
+#layoutthird_pic {
+    display: grid;
+    gap: 20px;
+    grid-template: "free_text free_pic"
+    ;
+}
+#free_pic {
+    grid-area: free_pic;
+}
+#free_pic>img {
+  margin-right: 60px;
+  margin-top: 80px;
+   height: 450px;
+   padding: 30px;
+   border-radius: 2px;
+}
+#free_text {
+   grid-area: free_text;
+   margin-left: 180px;
+}
+#free_text >h1 {
+  font-size: 45px;
+  color: rgb(10, 12, 114);
+  font-family: 'PT Serif', serif;
+
+  margin-top: 250px;
+ 
+}
+#free_text >p {
+   font-size: 23px;
+   color: rgb(43, 35, 35);
+}
+#free_text >button {
+   height: 50px;
+   width: 280px;
+   border-radius: 25px;
+   background-color: white;
+   color: rgb(10, 10, 43);
+  
+   font-size: 16px;
+}

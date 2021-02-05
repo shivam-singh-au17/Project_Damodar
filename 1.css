@@ -1,38 +1,33 @@
-
-    body{
+ #navbar{
         padding: 0;
         margin: 0;
     }
-    #flex{
-        display: flex;
-        justify-content: center;
-        background: rgb(58, 48, 116);
-    }
-    #flex>div:nth-child(1){
+    
+    .navbar_div1>div:nth-child(1){
         width: 40%;
         height: 5vh;
     }
-    img{
+    #navbar img{
         width: 100%;
         height: 100%;
     }
-    #flex2{
+    .navbar_div2{
         display: flex;
     }
-    #flex2>div:nth-child(1){
+    .navbar_div2>div:nth-child(1){
         width: 15%;
         height: 10vh;
     }
-    #flex2>h4{
+    .navbar_div2>h4{
         margin-top: 40px;
         margin-left: 20PX;
         color: navy;
         align-items: center;
     }
-    #flex2>h4:nth-of-type(6){
+    .navbar_div2>h4:nth-of-type(6){
         flex-grow: 3;
     }
-    #cont{
+    .navbar_div3{
         display: grid;
         grid-template-areas: "left1 l"
         "left2 right"
@@ -79,7 +74,7 @@
          width: 10vw;
          height: 5.6vw;
     }
-    .float{
+    .navbar_div3_left{
         display: flex;
     }
     #left3>div{
@@ -98,25 +93,25 @@
          width: 10vw;
          height: 2vw;
     }
-    h1{
-        font-size: 70px;
+    #navbar h1{
+        font-size: 57px;
         color: navy;
-        line-height: 1px;
     }
-    button{
+    #navbar button{
         background: navy;
-        width: 25vh;
-        height: 5vh;
-        border-radius: 15px;
+        width: 40vh;
+        height: 8vh;
+        border-radius: 25px;
         color: white;
-        font-size: 30px;
+        font-size: 24px;
     }
     #right>div{
-        width: 650px;
-        height: 400px;
-        background: red;
+        width: 525px;
+        height: 332px;
+        background: rgba(255,111,94,255);
     }
-    @media (max-width: 600px){
+    
+    /* @media (max-width: 600px){
         #flex{
             flex-wrap: wrap;
         }
@@ -125,7 +120,7 @@
         }
     }
     @media (max-width: 600px){
-        #cont{
+        .navbar_div3{
             grid-template: "left1"
             "left2"
             "left3"
@@ -134,4 +129,4 @@
             "left6"
             "right";
         }
-    }
+    } */

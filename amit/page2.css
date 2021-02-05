@@ -1,0 +1,40 @@
+#layout_pic {
+    margin-left: 20px;
+    display: grid;
+    gap: 57px;
+    grid-template-rows: 750px;
+    grid-template-columns: 750px 500px;
+}
+
+#bigpic {
+    width: 700px;
+}
+#bigpic>img {
+    width: 750px;
+   margin-top: 80px;
+    height: 550px;
+}
+#bigpic_text {
+    width: 450px;
+}
+#bigpic_text >h1 {
+    color: #181c47;
+    font-family: sans-serif;
+   font-size: 45px;
+   margin-top: 150px;
+}
+#bigpic_text >p {
+    color: #181c47;
+    font-family: sans-serif;
+    font-size: 31px;
+    font-weight: 500;
+}
+#bigpic_text >button {
+    font-weight: 700;
+    height: 50px;
+    width: 280px;
+    border-radius: 25px;
+    background-color: white;
+    color: rgb(10, 10, 43);
+    font-size: 16px;
+}

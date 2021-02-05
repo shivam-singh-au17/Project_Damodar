@@ -1,0 +1,31 @@
+
+.form_55 {
+    display: flex;
+    flex-direction:row;
+    max-width: 1200PX;
+    margin: auto;
+    margin-top: 100px;
+}
+.page10{
+    display: grid;
+    grid-template-rows: 200px 200px;
+    grid-template-columns: 550px;
+    
+}
+
+.form_56 img {
+    width: 140px;
+    height: 18px;
+}
+.form_56  {
+    font-size: 20px;
+}
+
+.form_57 img {
+    width: 660px;
+    height: 490px;
+
+}
+.form_58 {
+    font-size: 20px;
+}

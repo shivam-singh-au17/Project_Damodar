@@ -1,0 +1,458 @@
+.body_header_nil1 {
+    background-color:   #fddbcc ;
+    width: 100%;
+    height: 400px;
+}
+
+.navbar_div2{
+    display: flex;
+}
+
+.navbar_div2>h4 {
+    margin-top: 40px;
+    margin-left: 20PX;
+    color: navy;
+    align-items: center;
+}
+
+.navbar_div2>h4:nth-of-type(6) {
+    flex-grow: 3;
+}
+
+#layoutthird_pic {
+    display: grid;
+    gap: 20px;
+    grid-template: "free_text free_pic"
+    ;
+}
+#free_pic {
+    grid-area: free_pic;
+}
+#free_pic>img {
+  margin-right: 60px;
+  margin-top: 80px;
+   height: 450px;
+   padding: 30px;
+   border-radius: 2px;
+}
+#free_text {
+   grid-area: free_text;
+   margin-left: 130px;
+}
+#free_text >h1 {
+  color: #181c47;
+  font-family: sans-serif;
+  font-size: 45px;
+  margin-top: 100px;
+ 
+}
+#free_text >p {
+   color: #181c47;
+   font-family: sans-serif;
+   font-size: 31px;
+   color: rgb(43, 35, 35);
+}
+
+
+body{
+    color: #181c47;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+}
+.span_link1 {
+    height: 180px;
+
+}
+
+.header_div_loca_1 {
+    text-align: center;
+}
+
+.header_div2_nil2 {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: -130px;
+}
+
+.span_link2 {
+
+    width: 120px;
+    height: 60px;
+    
+}
+
+.header_h1_nil3 {
+    font-size: 66px;
+    margin-top: -20px;
+    color: #181c47;
+}
+
+.header_p_nil4 {
+    font-size: 19px;
+    /* line-height: 30px; */
+    margin-top: -30px;
+    font-family: ProximaNova,helvetica neue,helvetica,arial,sans-serif;
+    color: #181c47;
+
+
+
+}
+
+.hearder_btn_nil5 {
+    color: white;
+    background-color: rebeccapurple;
+    padding: 10px;
+    width: 240px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
+.span_link3 {
+
+    height: 210px;
+ 
+
+}
+#header_div_link_arr {
+    text-align: right;
+    margin-top: -90px;
+}
+
+.clear{
+    clear: both;
+}
+
+/* <fifth   nil> */
+
+.body_div_formm_kok {
+
+    
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    font-family: ProximaNova,helvetica neue,helvetica,arial,sans-serif;
+    font-size: 20px;
+    color:  #181c47;
+
+
+}
+
+/* < nil sixthhh> */
+
+.body_div_formm_0{
+    text-align: center;
+    margin-top: 30px;
+ 
+}
+
+
+
+.body_div_formm_1 {
+
+    color: #181c47;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: ProximaNova-Bold,sans-serif;
+    letter-spacing: .1em;
+    -webkit-font-smoothing: antialiased;
+
+
+
+
+}
+
+.body_div_formm_2 {
+
+    -webkit-font-smoothing: antialiased;
+    color: #181c47;
+    font-family: PlayfairDisplay-Bold,serif;
+    font-weight: 700;
+    font-size: 40px;
+
+
+
+
+}
+
+.span_link2 {
+
+    width: 120px;
+    height: 10px;
+
+     
+}
+
+
+
+
+.drag {
+    height: 100px;
+    margin-top: 20px;
+   
+ 
+}
+
+#nilor {
+
+    text-align: center;
+    align-items: center;
+    display: grid;
+    grid-template: "a b c";
+    margin-top: 30px;
+    width: 1100px;
+    align-content: center;
+    align-self: center;
+    margin: auto;
+    
+
+}
+
+.sales {
+
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.ball {
+    text-align: center;
+    font-size: 20px;
+    
+    color: #181c47;
+    -webkit-font-smoothing: antialiased;
+    font-family: ProximaNova,helvetica neue,helvetica,arial,sans-serif;
+
+
+}
+
+.clear {
+    clear: both;
+}
+
+
+/* <seventh nil> */
+
+
+.inline1 {
+    text-decoration: underline;
+    font-family: ProximaNova,helvetica neue,helvetica,arial,sans-serif;
+    color: #2d51de;
+    transition: all .3s ease;
+}
+#form_55 {
+    display: grid;
+    grid-template: "w z"
+    "x z"
+    "y z";
+    margin-left: 90px;
+    margin-top: 100px;
+}
+
+#form_56 img {
+    width: 80px;
+    height: 100px;
+    margin-top: -30px;
+    text-align: right;
+   
+  
+
+}
+
+#form_57 img {
+    width: 660px;
+    height: 490px;
+
+ 
+
+
+
+}
+#form_58 {
+    width: 600px;
+    margin-top: -300px;
+    font-size: 22px;
+    line-height: 40px;
+}
+#form_56 {
+    font-size: 20px;
+    margin-top: -10px;
+ 
+}
+
+/* <video>>>>>>> */
+
+.video_div_play {
+    
+    text-align: center;
+}
+
+
+
+/* FOOTER CSS BY SHIVAM */
+
+
+footer {
+    background: black;
+    color: rgb(99, 99, 99);
+    padding: 25px 0px;
+}
+
+.center_logo {
+    text-align: center;
+}
+
+.center_logoA {
+    display: inline-block;
+    width: 38px;
+    height: 32px;
+    background: url(https://animoto.com/static/Logo-b634e191767bb07f78b4534cf5171c33.svg) no-repeat;
+}
+
+.footer_main1 {
+    margin-top: 80px;
+    height: 45px;
+    width: 100%;
+    background-color: #f3f3f9;
+}
+
+.footer_main_btn {
+    width: 100%;
+    padding: .81481rem 0;
+    border: none;
+    margin: 0;
+    background: transparent;
+    text-align: center;
+    cursor: pointer;
+}
+
+.footer_main_btn_div {
+    color: #181c47;
+    font-family: ProximaNova-Bold, sans-serif;
+    font-weight: 700;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
+
+.footer_main2 {
+    width: 100%;
+    background-color: #dadada;
+}
+.footer_main2_div_ul5_ul{
+    display: flex; 
+    padding: 0;
+}
+
+.footer_main2_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2.37037rem 1.48148rem;
+    line-height: 24px;
+}
+
+.footer_main2_div_ul1 {
+    padding-bottom: 10px;
+    list-style: none;
+    margin-bottom: .59259rem;
+}
+
+.footer_main2_div_ul1_div1 {
+    margin-bottom: 8px;
+    color: #181c47;
+    font-family: ProximaNova-Bold, sans-serif;
+    font-weight: 700;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
+
+.footer_main2_div_ul1_div1l1 {
+    /* color: #969696; */
+    margin-bottom: 8px;
+    font-size: 15px;
+}
+
+.facebookmarketin {
+    background-image: url(https://animoto.com/static/FacebookPartnerIcon-961906786656ef476b0062fa5d9a23e0.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    display: inline-block;
+    min-height: inherit;
+    width: 120px !important;
+    height: 34px;
+    background-size: 120px 65px;
+}
+
+.instgram_icon {
+    background-image: url(https://animoto.com/static/InstagramPartnerIcon-a25842f56300416b98d0c2b1ce1485d6.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    display: inline-block;
+    min-height: inherit;
+    width: 138px !important;
+    height: 26px;
+    background-size: 138px 111px;
+}
+
+
+.youtub_icon {
+    display: inline-block;
+    min-height: inherit;
+    width: 72px !important;
+    height: 34px;
+    background-size: 100px 45px;
+    background-image: url(https://animoto.com/static/YoutubePartnerIcon-a2c50cfcbdfaa231cb43a768f4ad2c81.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.all_icon {
+    height: 32px;
+    width: 32px;
+}
+
+.fb_icon {
+    fill: #3b5998;
+}
+
+.you_tub_icon {
+    fill: red;
+}
+
+.twet_icon {
+    fill: #0077b5;
+}
+
+.insta_icon {
+    fill: #e34060;
+}
+
+.linkd_icon {
+    fill: #00aced;
+}
+
+.all_icon2 {
+    padding: 2px;
+    display: inline-block;
+    line-height: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
