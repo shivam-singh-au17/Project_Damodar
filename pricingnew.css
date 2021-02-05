@@ -1,0 +1,349 @@
+.navbar {
+    width: 100vw;
+    background-color:lightgrey;
+    margin: 0;
+  }
+    ul {
+      list-style: none;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      margin: 0;
+      height: 3em;
+      padding: 0;
+    }
+  
+    ul li {
+      padding-right: 2em;
+      font-weight: bold;
+      color:rgb(129, 120, 120)
+    }
+    img {
+     
+      height:7.5em;
+      width: 10.5em;
+    }
+    li:first-child {
+      margin-right: auto;
+      margin-left: 2em;
+    }
+  
+  
+  
+             #upper_pic_txt{
+                 display: flex;
+                 gap: 0.5em;
+                 justify-content: center;
+                 border-radius:2px;
+                 background-color: whitesmoke;
+                 justify-content: space-between;
+             }
+             .firstone_pic >img {
+              margin-left:-5.5em 
+             }
+             .classonelast_pic {
+              margin-right: -5.1em;
+             }
+             .classone_text >h1{
+                margin-left: 0.3;
+             }
+            .classone_text{
+                font-size: 29px;
+                color: rgb(10, 12, 114);
+                font-family: 'PT Serif', serif;
+                
+                
+            }
+           #secondone_text {
+               display: flex;
+               justify-content: center;
+               gap: 2em;
+           }
+           .secondheading{
+                font-size: 23px;
+                color: rgb(10, 12, 114);
+                font-family: 'PT Serif', serif;
+                margin-top: 1.8em;
+           }
+           .buttonclass {
+               margin-top: 2em;
+              
+           }
+           .buttonclass > button {
+               height: 3.2em;
+               width: 16em;
+               border-radius: 2.5em;
+               font-size: 0.9em;
+               color: rgb(10, 12, 114);
+           }
+  
+           #anuualmonthly_text{
+              display: flex;
+              gap: 3.8em;
+             justify-content: center;
+           }
+           .annual {
+               font-size: 18px;
+               font-family: 'PT Serif', serif;
+               color: rgb(10, 12, 114);
+           }
+           .monthly{
+               margin-top: 0.0.8em;
+               font-size: 18px;
+               font-family: 'PT Serif', serif;
+               color: rgba(32, 29, 29, 0.562);
+           
+           }
+           #border{
+               display: flex;
+               justify-content: center;
+               margin: -1em;
+           }
+  
+           .border {
+               border: 2px solid   rgb(10, 12, 114);
+               width: 5em;
+               background-color: rgb(10, 12, 114);
+               margin-right: 10em;
+               border-radius: 0.9em;
+           }
+  
+           #border1 {
+              display: flex;
+               justify-content: center;
+               margin: -1em;
+           }
+           .border1 {
+              border: 2px solid   rgb(10, 12, 114);
+               width: 2em;
+               background-color: rgb(10, 12, 114);
+             
+               border-radius: 0.9em;
+           }
+          #discountprice {
+              display: flex;
+              justify-content: center;
+              margin: 1.5em;
+          }
+          .discount{
+              font-size: 1.3em;
+             
+          }
+          #moneyplan {
+              margin: 2rem;
+              display: grid;
+              grid-template-columns: repeat(auto-fit, minmax(12rem, 16rem));
+              grid-gap: 2rem;
+              justify-content: center;
+          }
+  
+          #moneyplan_box{
+              display: flex;
+              gap: 3em;
+              justify-content: center;
+          }
+          .free_plan{
+              padding: 05em;
+          }
+          .classh1 {
+              font-size: 2.5em;
+              color:rgb(10, 12, 114);
+              margin-top: -0.3em;
+          }
+  
+          .classproftext{
+              font-size: 2.5em;
+              color:rgb(10, 12, 114);
+          }
+          .classp1{
+              font-size:1.3em ;
+          }
+          .dollar {
+              font-size: 50px;
+          }
+          .dollartext {
+              font-size: 1.2em;
+          }
+          .buttonfree_monthly {
+              height: 3.5em;
+              width: 19em;
+              border-radius: 2.5em;
+              font-size: 0.9em;
+              margin-top: 1.5em;
+              margin-bottom: 0.6em;
+          }
+          .noanimatopara{
+              margin-bottom: 1.2em;
+          }
+  
+          .classh2 {
+              font-size: 1.1em;
+              margin-top: 1.7em;
+              
+          }
+          .animato_brandingtext{
+              font-size: 1.0em;
+              margin-top: 1.6em;
+              margin-bottom: 1em;
+          }
+          .monthly_plan{
+              box-sizing: border-box;
+              padding: 05em;
+              border-left:0.1em solid rgb(199, 189, 189);
+              border-right:0.1em solid rgb(199, 189, 189) ;
+  
+              margin-bottom: 5.5em;
+          }
+          .small_button {
+              height: 3.5em;
+              width: 12em;
+              border-radius: 2.5em;
+              font-size: 0.9em;
+              margin-top: -0.7em;
+             
+              
+  
+          }
+          .button_monthly {
+              height: 3.5em;
+              width: 19em;
+              border-radius: 2.5em;
+              font-size: 0.9em;
+            
+              margin-bottom: 0.6em;
+             
+          }
+          .letterspacing1{
+              letter-spacing: 0.1em;
+              font-size: 1.2em;
+              color: rgb(29, 26, 26);
+          }
+          #letterspacing{
+              letter-spacing: 0.1em;
+              font-size: 1.2em;
+              color:  rgb(29, 26, 26);
+          }
+          .red {
+              color: red;
+              font-size: 1.2em;
+              margin-top: -3.0em;
+          }
+          .year_plan{
+              padding: 04em;
+              margin-top: -0.3em;
+          }
+          .background{
+              background-color: whitesmoke;
+              padding: 0.4em;
+              display: flex;
+              
+             
+          }
+          .accountfor3_txt{
+              margin-top: 0.2em;
+              margin-bottom: 0.5em;
+          }
+          .letter_spacing2{
+              letter-spacing: 0.1em;
+              font-size: 1.2em;
+              color:  rgb(29, 26, 26);
+          }
+          .letterspacing3{
+              letter-spacing: 0.1em;
+              font-size: 1.2em;
+              color:  rgb(29, 26, 26);
+          }
+          #all_plan{
+              display: flex;
+              justify-content: center;
+          }
+          #all_plan>h3{
+              font-size: 1.7em;
+              color:  rgb(29, 26, 26);
+              margin-top: 2.5em;
+          }
+  
+          #fourshort_image{
+              display: flex;
+              justify-content: center;
+              gap: 8.2em;
+              flex-direction: row;
+          }
+  
+          .image_short  {
+              height: 4.5em;
+              width: 4.5em;
+          }
+            .fourshort_text {
+             font-size: 1.1em;
+             color:rgb(10, 12, 114) ;
+  
+          } 
+          .s_class1{
+            flex-direction: column;
+             
+          }
+          .s_class2{
+              flex-direction: column;
+          }
+          .s_class3{
+              flex-direction: column;
+          } 
+  
+          #last_button{
+             display: flex;
+             justify-content: center;
+             margin-top: 2.5em;
+             
+          }
+          #last_button>button{
+              height: 3.5em;
+              width: 19em;
+              border-radius: 2.5em;
+              font-size: 0.9em; 
+          }
+          #signup_1 , #signup_lastbtn{
+              background-color: rgb(44, 62, 143);
+              color: white;
+              
+          }
+
+          .tooltip {
+            position: relative;
+            display: inline-block;
+           
+            
+          }
+          
+          .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 300px;
+            background-color: black;
+            opacity: 0.9;
+            color: rgb(114, 35, 35);
+            text-align: center;
+            border-radius: 1px;
+            padding: 1px 0;
+            position: absolute;
+            z-index: 1;
+            top: -5px;
+            left: 110%;
+          }
+          
+          .tooltip .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 50%;
+            right: 100%;
+            margin-top: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: transparent black transparent transparent;
+          }
+          .tooltip:hover .tooltiptext {
+            visibility: visible;
+          }
+          .textcolor{
+              font-size: 18px;
+              color:white;
+          }
