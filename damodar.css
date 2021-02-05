@@ -1,7 +1,22 @@
 /* PAGE #4 BODY CSS */
+/* *{
+    padding: 0;
+    margin: 0;
+} */
 
 
+html{
+    scroll-behavior: smooth;
+}
 
+
+body{
+    color: #181c47;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+}
 
 .main_container{
     padding: 40px 0px;
@@ -40,7 +55,7 @@
 }
 .main_ul{
     color: rgba(50,87,158,255);
-    font-family: sans-serif;
+
     font-size: 18px;
     margin: 30px 0px;
     display: flex;
@@ -94,7 +109,7 @@
 }
    .div1_grid_colam{
     color: rgba(24,28,71,255);
-    font-family: sans-serif;
+
     font-weight: 600;
     text-align: left;
     margin: 30px 10px;
@@ -128,7 +143,83 @@
         overflow: hidden;
 }
 
+ /* PAGE #7 PARTNER CONTENT BY SHIVAM */
 
+ .partner_section{
+    margin: 100px 0px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.partner_div{
+    margin-bottom: 25px;
+    color: #181c47;
+    font-family: ProximaNova-Bold,sans-serif;
+    font-weight: 700;
+    letter-spacing: .1em;
+}
+.partner_ul{
+    margin: auto;
+    display: grid;
+    grid-template-columns:170px 170px 170px 170px 170px 170px;;
+    
+}
+.partner_ul_li {
+    display: block;
+    margin: 15px 10px;
+}
+.partner_ul_span1 {
+    background: url(https://animoto.com/static/LinkedinPartnerIcon-327ae68f31fe001bef82511b61e292ad.svg) no-repeat;
+    display: block;
+    min-height: 65px;
+    background-position: 50%;
+    background-size: contain;
+}
+.partner_ul_span2 {
+    display: block;
+    width: 100%;
+    min-height: 65px;
+    background-size: contain;
+    background-image: url(https://animoto.com/static/FacebookPartnerIcon-961906786656ef476b0062fa5d9a23e0.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.partner_ul_span3 {
+    display: block;
+    width: 100%;
+    min-height: 65px;
+    background-size: contain;
+    background-image: url(https://animoto.com/static/YoutubePartnerIcon-a2c50cfcbdfaa231cb43a768f4ad2c81.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.partner_ul_span4 {
+    display: block;
+    width: 100%;
+    background: url(https://animoto.com/static/InstagramPartnerIcon-a25842f56300416b98d0c2b1ce1485d6.svg);
+    min-height: 65px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: contain;
+}
+
+
+.partner_ul_span5 {
+    background: url(https://animoto.com/static/TwitterPartnerIcon-dda193843f2ad8e7cda58361fd5f8166.svg) no-repeat;
+    display: block;
+    width: 100%;
+    min-height: 65px;
+    background-position: 50%;
+    background-size: contain;
+}
+.partner_ul_span6 {
+    background: url(https://animoto.com/static/HubspotPartnerIcon-a1b111f791276690babd826db0f968f4.svg) no-repeat;
+    display: block;
+    width: 100%;
+    min-height: 65px;
+    background-position: 50%;
+    background-size: contain;
+}
 
 
 /* PAGE #8 BODY CSS */
@@ -182,7 +273,7 @@
     line-height: 30px;
     font-size: 21px;
     color: #181c47;
-    font-family: sans-serif;
+
 }
 .resources_cont_div2_div1_div1_div1_a{
     letter-spacing: 1px;
@@ -215,6 +306,7 @@ footer {
 }
 
 .footer_main1 {
+    margin-top: 80px;
     height: 45px;
     width: 100%;
     background-color: #f3f3f9;
@@ -241,6 +333,10 @@ footer {
 .footer_main2 {
     width: 100%;
     background-color: #dadada;
+}
+.footer_main2_div_ul5_ul{
+    display: flex; 
+    padding: 0;
 }
 
 .footer_main2_div {
@@ -332,6 +428,9 @@ footer {
 }
 
 .all_icon2 {
+    padding: 2px;
     display: inline-block;
     line-height: 0;
 }
+
+
