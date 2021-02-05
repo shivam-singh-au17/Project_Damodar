@@ -1,9 +1,8 @@
 /* PAGE #4 BODY CSS */
-/* *{
-    padding: 0;
-    margin: 0;
-} */
 
+a{
+    text-decoration: none;
+}
 
 html{
     scroll-behavior: smooth;
@@ -121,7 +120,7 @@ h1{
     font-family: ProximaNova-Bold,helvetica neue,helvetica,arial,sans-serif;
     font-weight: 700;
     border-bottom: 2px solid #23408c;
-    /* padding-bottom: 4px; */
+    padding-bottom: 4px;
     color: #23408c;
 }
 .play_btn{
@@ -280,7 +279,7 @@ h1{
     font-family: ProximaNova-Bold,helvetica neue,helvetica,arial,sans-serif;
     font-weight: 700;
     border-bottom: 2px solid #23408c;
-    /* padding-bottom: 4px; */
+    padding-bottom: 4px;
     color: #23408c;
 }
 

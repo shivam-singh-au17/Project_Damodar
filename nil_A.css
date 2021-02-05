@@ -4,14 +4,13 @@
     grid-gap: 20px;
     grid-template-columns: 400px 400px 400px;
     grid-template-rows: 300px;
-    margin: auto;
+    margin: 45px;
   
 } 
 
 .cont{
     color: #181c47;
     font-family: sans-serif;
-    text-align: center;
 }
 
 .drag {

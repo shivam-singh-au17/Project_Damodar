@@ -1,5 +1,6 @@
-@media  (max-width: 600px) {
+@media (min-width: 0px) and (max-width: 768px) {
    .footer_main2_divM{
+       text-align: left;
        flex-direction: column;
    }
   
@@ -95,17 +96,9 @@
 .btn_niiil{
     margin: 0;
 }
+#damodar_cont{
+    max-width: 768px;
+    margin: auto;
+}
 
 } 
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-/* @media only screen and (min-width: 600px) {...}  */
-
-/* Medium devices (landscape tablets, 768px and up) */
-/* @media only screen and (min-width: 768px) {...}  */
-
-/* Large devices (laptops/desktops, 992px and up) */
-/* @media only screen and (min-width: 992px) {...}  */
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-/* @media only screen and (min-width: 1200px) {...} */
