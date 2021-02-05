@@ -2,6 +2,7 @@
 
 a{
     text-decoration: none;
+    
 }
 
 html{
@@ -292,7 +293,9 @@ footer {
     color: rgb(99, 99, 99);
     padding: 25px 0px;
 }
-
+.footer a{
+    color: #969696;
+}
 .center_logo {
     text-align: center;
 }
@@ -347,6 +350,7 @@ footer {
 }
 
 .footer_main2_div_ul1 {
+    text-align: left;
     padding-bottom: 10px;
     list-style: none;
     margin-bottom: .59259rem;
@@ -362,7 +366,7 @@ footer {
 }
 
 .footer_main2_div_ul1_div1l1 {
-    /* color: #969696; */
+    
     margin-bottom: 8px;
     font-size: 15px;
 }

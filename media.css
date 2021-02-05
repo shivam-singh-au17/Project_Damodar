@@ -101,4 +101,22 @@
     margin: auto;
 }
 
+.navbar_div3 {
+    display: grid;
+    grid-template-areas:
+        "left1 "
+        "left2"
+        "left3"
+        "left4"
+        "left5"
+        "left6"
+        "right";
+    background-color: #f4f9fc;
+    margin-top: 10px;
+}
+.navbar_div2 {
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+
 } 

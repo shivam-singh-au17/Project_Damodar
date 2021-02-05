@@ -8,7 +8,8 @@
   
 } 
 
-.cont{
+.cont_nil{
+    text-align: center;
     color: #181c47;
     font-family: sans-serif;
 }
