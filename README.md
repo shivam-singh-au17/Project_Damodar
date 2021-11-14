@@ -12,9 +12,9 @@
 ```
 git clone https://github.com/shivam-singh-au17/Project_Damodar.git
 ```
-### And then open it in VS Code and then start two Git Bash terminal at the same location. Then enter these two commands manually in first terminal.  
+### You have to open this file in VS-code and go to index.html file and open it by the live server, your VS-code must have live-server installed. 
 ```
-cd serverside
+Go Live
 ```
 
 # Our Agendas - 
