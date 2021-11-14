@@ -10,7 +10,7 @@
 
 ### First you clone or download this project from here.
 ```
-git clone https://github.com/shivam-singh-au17/ProjectMediumClone
+git clone https://github.com/shivam-singh-au17/Project_Damodar.git
 ```
 ### And then open it in VS Code and then start two Git Bash terminal at the same location. Then enter these two commands manually in first terminal.  
 ```
