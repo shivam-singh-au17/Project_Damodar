@@ -1,4 +1,4 @@
-# Project Damodar
+# Animoto Clone
 
 
 ![Logo](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/animoto.png?raw=true)
