@@ -16,16 +16,6 @@ git clone https://github.com/shivam-singh-au17/Project_Damodar.git
 ```
 cd serverside
 ```
-```
-nodemon server.js
-```
-### And then open second Git Bash terminal and then enter these two commands manually in this terminal.  
-```
-cd clientside
-```
-```
-npm start
-```
 
 # Our Agendas - 
 * Breaking the whole work into the smallest divisions according to our strong zone.
@@ -36,10 +26,9 @@ npm start
 
 # Technologies Used
 
-- We used  [HTML-5](https://www.w3schools.com/html/) ,  [CSS-3](https://www.w3schools.com/css/default.asp), [Javascript](https://www.w3schools.com/js/default.asp)  and  [React](https://reactjs.org/docs/getting-started.html)  for front-end.
-- We used  [MongoDB](https://www.mongodb.com/cloud/atlas)  for database.
-- We used  [Node.js](https://nodejs.org/en/)  and  [Express.js](https://expressjs.com/)  library for back end.
-- And we are also used  [Bootstrap](https://getbootstrap.com/) and [Material UI](https://mui.com/) for designing and layout.
+- We used  [HTML-5](https://www.w3schools.com/html/) ,  [CSS-3](https://www.w3schools.com/css/default.asp) for front-end.
+- We used  [Javascript](https://www.w3schools.com/js/default.asp) for back end.
+- And we are also used  [Bootstrap](https://getbootstrap.com/) for designing and layout.
 
 # Tools
 
@@ -53,21 +42,23 @@ npm start
 
 # Some screenshots of our project
 
-1.
-2.
-3.
-4.
-5.
-
+![Screenshot (192)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(192).png?raw=true)
+![Screenshot (193)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(193).png?raw=true)
+![Screenshot (194)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(194).png?raw=true)
+![Screenshot (195)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(195).png?raw=true)
+![Screenshot (196)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(196).png?raw=true)
+![Screenshot (197)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(197).png?raw=true)
+![Screenshot (198)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(198).png?raw=true)
+![Screenshot (199)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(199).png?raw=true)
 
 ***So this was the project we have created with our efforts. We have added the screenshots for our audience to understand easily.***
 
 # challenges to build this website
-1. The original website was not built on the React framework, due to which we were not getting any idea how many components should be broken into the whole website but we were taught by Masai school so didn't face much problem and we broke it into components according to our own.
-
-2. The biggest challenge we faced was to connect the backend server and frontend server together which we were doing for the first time but we were successful in that and successfully connected both the services.
-
-3. We had received the layout of the entire website in the form of a figma file by our designer colleagues, which we had to clone, so there was some problem in using the figma file but with the help of designer colleagues, we completed it successfully.
+<h5>1. Communication
+Distance always matters for group work. As we are from different parts of India, miscommunications were the common challenges for us. But, we make it happen with the help of slack and WhatsApp.</h5>
+<h5>2. Collaboration
+As we are using Git collaboration, initially we were facing some technical issues, but continuously co-ordinations, make things easier. <br> <br>
+These two challenges improve our abilities to be a good Team Player.</h5>
 
 **These challenges improve our abilities to be a good Team Player and finally we did the constitution of all the problems together and made our perfect project.**
 
