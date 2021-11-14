@@ -94,6 +94,6 @@ These two challenges improve our abilities to be a good Team Player.</h5>
 
 # Conclusion
 - I would like to thank, all of my team members, Nilesh Kokate, Subhash Jha and Amit Kumar Mehta for their contribution. 
-- I am very glad that I completed this project ahead of time and got a good knowledge of Reject Framework and Figma File and got valuable experience.
+- This is my first group project and I had a great experience with this project because I learned to build a website with people.
 - I’m feeling very proud to get such hard-working team members and also feeling very fortunate for being a part of Masai School because of which I got the experience of cloning such a wonderful website.
 ### Thank you for giving it a read...
