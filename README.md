@@ -42,13 +42,33 @@ cd serverside
 
 # Some screenshots of our project
 
+### If you want to see our project click this URL => https://project-damodar.vercel.app/
+
+#### 1. The look of the *HOME* page of our cloned website is as follows.
 ![Screenshot (192)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(192).png?raw=true)
-![Screenshot (193)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(193).png?raw=true)
-![Screenshot (194)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(194).png?raw=true)
-![Screenshot (195)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(195).png?raw=true)
+
 ![Screenshot (196)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(196).png?raw=true)
+
+
+#### 2. The look of the *FEATURES* page of our cloned website is as follows.
+![Screenshot (193)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(193).png?raw=true)
+
+![Screenshot (194)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(194).png?raw=true)
+
+
+#### 3. The look of the *LOGIN* page of our cloned website is as follows.
+![Screenshot (195)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(195).png?raw=true)
+
+
+#### 4. The look of the *PRICING* page of our cloned website is as follows.
 ![Screenshot (197)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(197).png?raw=true)
+
+
+#### 5. The look of the *TEMPLATES* page of our cloned website is as follows.
 ![Screenshot (198)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(198).png?raw=true)
+
+
+#### 6. The look of the *FOOTER* of our cloned website is as follows.
 ![Screenshot (199)](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/Screenshot%20(199).png?raw=true)
 
 ***So this was the project we have created with our efforts. We have added the screenshots for our audience to understand easily.***
