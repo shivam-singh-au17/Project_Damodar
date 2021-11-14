@@ -83,17 +83,17 @@ These two challenges improve our abilities to be a good Team Player.</h5>
 **These challenges improve our abilities to be a good Team Player and finally we did the constitution of all the problems together and made our perfect project.**
 
 # Team members and contributors
-**By following a well-structured way, all of us successfully completed our responsibilities before the given time. The members of team MEDIUM are-**
+**By following a well-structured way, all of us successfully completed our responsibilities before the given time. The members of team DAMODAR are-**
 
-#### 1. Sagar Biswas
-**Github:**  [mrsagar105](https://github.com/mrsagar105) 
-#### 2. Sunny Dhanwani
-**Github:**  [SunnyDhanwani](https://github.com/SunnyDhanwani) 
-#### 2. Dheeraj Bisht
-**Github:**  [dheerajbisht362](https://github.com/dheerajbisht362) 
+#### 1. Nilesh Kokate
+**Github:**  [nilpatil7744](https://github.com/nilpatil7744) 
+#### 2. Amit Kumar Mehta
+**Github:**  [amit-web](https://github.com/amit-web) 
+#### 3. Subhash Jha
+**Github:**  [subhash238](https://github.com/subhash238) 
 
 # Conclusion
-- I would like to thank, all of my team members, Sagar Biswas, Sunny Dhanwani and Dheeraj Bisht for their contribution. 
+- I would like to thank, all of my team members, Nilesh Kokate, Subhash Jha and Amit Kumar Mehta for their contribution. 
 - I am very glad that I completed this project ahead of time and got a good knowledge of Reject Framework and Figma File and got valuable experience.
 - I’m feeling very proud to get such hard-working team members and also feeling very fortunate for being a part of Masai School because of which I got the experience of cloning such a wonderful website.
 ### Thank you for giving it a read...
