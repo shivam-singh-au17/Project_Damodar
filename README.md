@@ -1,6 +1,5 @@
 # Animoto Clone
 
-
 ![Logo](https://github.com/shivam-singh-au17/Project_Damodar/blob/master/Screenshots/animoto.png?raw=true)
 
 
@@ -97,3 +96,4 @@ These two challenges improve our abilities to be a good Team Player.</h5>
 - This is my first group project and I had a great experience with this project because I learned to build a website with people.
 - I’m feeling very proud to get such hard-working team members and also feeling very fortunate for being a part of Masai School because of which I got the experience of cloning such a wonderful website.
 ### Thank you for giving it a read...
+
